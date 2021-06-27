@@ -27,7 +27,7 @@ function win(){
     
     
 }
-function lose(userChoice,compChoice){
+function lose(){
     compScore++;
     // console.log("You lost"+compScore);
     compScore_span.innerHTML = compScore++;
