@@ -18,11 +18,6 @@ function getComputerChoice(){
 }
 // getComputerChoice();
 
-function convertToWord(letter){
-    if(letter == "r") return "Rock"
-    if(letter == "p") return "Paper"
-    if(letter == "s") return "Scissor"
-}
 
 function win(){
     userScore++;
