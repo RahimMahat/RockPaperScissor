@@ -30,7 +30,7 @@ function win(){
 function lose(){
     compScore++;
     // console.log("You lost"+compScore);
-    compScore_span.innerHTML = compScore++;
+    compScore_span.innerHTML = compScore;
     result_div.innerHTML = "You lost";
 
 }
