@@ -1,4 +1,4 @@
-# WebDev
+# Rock-Paper-Scissor
 
 Here i have some simple web development projects
 This is my first web development project
